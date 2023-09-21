@@ -11,16 +11,16 @@
         <title>Startmin - Bootstrap Admin Theme</title>
 
         <!-- Bootstrap Core CSS -->
-        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css admin/bootstrap.min.css" rel="stylesheet">
 
         <!-- MetisMenu CSS -->
-        <link href="../css/metisMenu.min.css" rel="stylesheet">
+        <link href="../css admin/metisMenu.min.css" rel="stylesheet">
 
         <!-- Custom CSS -->
-        <link href="../css/startmin.css" rel="stylesheet">
+        <link href="../css admin/startmin.css" rel="stylesheet">
 
         <!-- Custom Fonts -->
-        <link href="../css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="../css admin/font-awesome.min.css" rel="stylesheet" type="text/css">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

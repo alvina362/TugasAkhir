@@ -39,3 +39,8 @@ Route::get('/profil', function () {
     return view('profil');
     
 });
+
+Route::get('/admin', function () {
+    return view('admin');
+    
+});
