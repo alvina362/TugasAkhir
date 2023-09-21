@@ -44,3 +44,8 @@ Route::get('/admin', function () {
     return view('admin');
     
 });
+
+Route::get('/admin', function () {
+    return view('admin');
+    
+});
