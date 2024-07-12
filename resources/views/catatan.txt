@@ -1,0 +1,11 @@
+Pusat pengaduan
+
+- tanggal (create)
+- judul
+- isi pengaduan
+- dokumen pendukung
+
+Swakelola
+- satker
+- tayang(paket)
+- pagu (paket)
